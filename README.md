@@ -188,12 +188,6 @@ Respuesta de Gitbash:
 12 n9.txt
 44
 
-3. ¿Qué archivo tiene mayor cantidad de filas?
-¿Qué archivo tiene mayor cantidad de columnas?
-
-El archivo que tiene mayor cantidad de filas es el n58.txt con 678 filas
-
-El archivo que tiene mayor cantidad de columnas es el n56.txt con 207 columnas
 
 
 
